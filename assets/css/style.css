@@ -498,6 +498,7 @@ article#article.show .info .date-author {
 
 /*Articles SASS file*/
 <<<<<<< HEAD
+<<<<<<< HEAD
 .persons {
   display: flex;
   flex-direction: row;
@@ -529,6 +530,8 @@ article#article.show .info .date-author {
 
 /*People SASS file*/
 =======
+=======
+>>>>>>> d6f7b20c9a34bcfe8192c3e1ce01565155138b93
 footer {
   background-color: white; /* Ny bakgrundsfärg */
   padding: 10px;
@@ -574,6 +577,9 @@ footer {
 }
 
 /*Footer SASS file*/
+<<<<<<< HEAD
+>>>>>>> d6f7b20c9a34bcfe8192c3e1ce01565155138b93
+=======
 >>>>>>> d6f7b20c9a34bcfe8192c3e1ce01565155138b93
 html {
   width: 100%;
